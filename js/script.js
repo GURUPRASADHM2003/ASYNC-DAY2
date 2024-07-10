@@ -71,6 +71,6 @@ document.addEventListener('DOMContentLoaded', function() {
         })
         .catch(error => {
             console.error('Error fetching countries data:', error);
-            alert('Failed to fetch countries data. Please try again later.');
+            alert('Failed to fetch countries data. Please try again laterR.');
         });
 });
